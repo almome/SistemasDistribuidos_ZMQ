@@ -20,5 +20,5 @@ Una vez ejecutado el cliente podrá hacer uso de las ordenes a continuación lis
 - list (Listar archivos alojador en el servidor).
 - del {archivo} (Borra un archivo del servidor)
 - send {ruta_archivo} (Enviaa un archivo al servidor)
-- get {archivo} [destino] (Obtiene un archivo del servidor y lo almacena en destino)
+- get {archivo} {destino} (Obtiene un archivo del servidor y lo almacena en destino)
 - exit (Cierra la aplicación)

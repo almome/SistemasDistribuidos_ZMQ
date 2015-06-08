@@ -18,7 +18,7 @@ El proyecto podrá realizar un envio de ficheros entre cliente y servidor. El se
 Para ejecutar el proyecto es necesario ejecutar el servidor en una maquina con "python server.py". Cuando un cliente quiera realizar una acción con el servidor ejecutará el cliente con "python client.py" y opcionalmente introducir la IP del servidor como argumento.
 Una vez ejecutado el cliente podrá hacer uso de las ordenes a continuación listadas:
 - list (Listar archivos alojador en el servidor).
-- del [archivo] (Borra un archivo del servidor)
+- del {archivo} (Borra un archivo del servidor)
 - send [ruta_archivo] (Enviaa un archivo al servidor)
 - get [archivo] [destino] (Obtiene un archivo del servidor y lo almacena en destino)
 - exit (Cierra la aplicación)
